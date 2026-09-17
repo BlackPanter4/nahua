@@ -1,7 +1,7 @@
 # NAHUA
 ## un Android echo para rescaté
 
-![Comandante Joe - Piloto NAHUA](nahua-piloto.jpg)
+![Comandante-Joe - Piloto NAHUA](nahua-piloto.jpg)
 
 **Comandante Joe | NAHUA RESCUE COMMANDER**
 🇲🇽 Hecho en Parral, Chihuahua
