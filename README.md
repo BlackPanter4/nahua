@@ -15,4 +15,4 @@
 - Control: Joysticks + guante flex
 
 ---
-*DECISCORP - Seguridad y Rescate*
+*CDICORP - Seguridad y Rescate*
